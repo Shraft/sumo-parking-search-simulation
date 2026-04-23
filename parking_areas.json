@@ -1,0 +1,637 @@
+[
+    {
+        "area_id": "1059",
+        "capacity": 225,
+        "lane": "-153419_1"
+    },
+    {
+        "area_id": "1060",
+        "capacity": 75,
+        "lane": "-152335_1"
+    },
+    {
+        "area_id": "1061",
+        "capacity": 350,
+        "lane": "153427#0_1"
+    },
+    {
+        "area_id": "1062",
+        "capacity": 350,
+        "lane": "-153427#5_1"
+    },
+    {
+        "area_id": "1063",
+        "capacity": 50,
+        "lane": "153547_1"
+    },
+    {
+        "area_id": "1064",
+        "capacity": 250,
+        "lane": "-152443_1"
+    },
+    {
+        "area_id": "1065",
+        "capacity": 50,
+        "lane": "152843#2_1"
+    },
+    {
+        "area_id": "1066",
+        "capacity": 75,
+        "lane": "-153325#2_1"
+    },
+    {
+        "area_id": "1067",
+        "capacity": 350,
+        "lane": "-153073_1"
+    },
+    {
+        "area_id": "1068",
+        "capacity": 500,
+        "lane": "-153427#5_1"
+    },
+    {
+        "area_id": "1069",
+        "capacity": 30,
+        "lane": "152952#0_0"
+    },
+    {
+        "area_id": "1070",
+        "capacity": 10,
+        "lane": "152955_0"
+    },
+    {
+        "area_id": "1071",
+        "capacity": 10,
+        "lane": "152435_0"
+    },
+    {
+        "area_id": "1072",
+        "capacity": 10,
+        "lane": "152430#1_0"
+    },
+    {
+        "area_id": "1073",
+        "capacity": 10,
+        "lane": "152954#1_0"
+    },
+    {
+        "area_id": "1074",
+        "capacity": 10,
+        "lane": "152430#1_0"
+    },
+    {
+        "area_id": "1075",
+        "capacity": 10,
+        "lane": "152430#1_0"
+    },
+    {
+        "area_id": "1076",
+        "capacity": 10,
+        "lane": "152434_0"
+    },
+    {
+        "area_id": "1077",
+        "capacity": 10,
+        "lane": "152434_0"
+    },
+    {
+        "area_id": "1078",
+        "capacity": 10,
+        "lane": "152951_0"
+    },
+    {
+        "area_id": "1079",
+        "capacity": 10,
+        "lane": "152951_0"
+    },
+    {
+        "area_id": "1080",
+        "capacity": 10,
+        "lane": "152954#4_0"
+    },
+    {
+        "area_id": "1081",
+        "capacity": 10,
+        "lane": "152954#4_0"
+    },
+    {
+        "area_id": "1082",
+        "capacity": 10,
+        "lane": "152435_0"
+    },
+    {
+        "area_id": "1083",
+        "capacity": 50,
+        "lane": "152986#0_0"
+    },
+    {
+        "area_id": "1084",
+        "capacity": 50,
+        "lane": "152978_0"
+    },
+    {
+        "area_id": "1085",
+        "capacity": 50,
+        "lane": "152528#1_0"
+    },
+    {
+        "area_id": "1086",
+        "capacity": 30,
+        "lane": "152151_0"
+    },
+    {
+        "area_id": "1087",
+        "capacity": 150,
+        "lane": "-152330#0_1"
+    },
+    {
+        "area_id": "1088",
+        "capacity": 550,
+        "lane": "152551_1"
+    },
+    {
+        "area_id": "1089",
+        "capacity": 250,
+        "lane": "152532_1"
+    },
+    {
+        "area_id": "1090",
+        "capacity": 250,
+        "lane": "152734#1_1"
+    },
+    {
+        "area_id": "1091",
+        "capacity": 3500,
+        "lane": "-153460_1"
+    },
+    {
+        "area_id": "1092",
+        "capacity": 30,
+        "lane": "152952#1_0"
+    },
+    {
+        "area_id": "1093",
+        "capacity": 75,
+        "lane": "-152927_1"
+    },
+    {
+        "area_id": "1094",
+        "capacity": 250,
+        "lane": "152329_1"
+    },
+    {
+        "area_id": "1095",
+        "capacity": 1500,
+        "lane": "153433#1_1"
+    },
+    {
+        "area_id": "1096",
+        "capacity": 250,
+        "lane": "152734#1_1"
+    },
+    {
+        "area_id": "1097",
+        "capacity": 100,
+        "lane": "152413#3_1"
+    },
+    {
+        "area_id": "1098",
+        "capacity": 100,
+        "lane": "152413#3_1"
+    },
+    {
+        "area_id": "1099",
+        "capacity": 50,
+        "lane": "152356_0"
+    },
+    {
+        "area_id": "1100",
+        "capacity": 75,
+        "lane": "-152992_1"
+    },
+    {
+        "area_id": "1101",
+        "capacity": 250,
+        "lane": "153656_1"
+    },
+    {
+        "area_id": "1102",
+        "capacity": 50,
+        "lane": "-153012#0_1"
+    },
+    {
+        "area_id": "1103",
+        "capacity": 75,
+        "lane": "-153643_1"
+    },
+    {
+        "area_id": "1104",
+        "capacity": 250,
+        "lane": "152649#1_1"
+    },
+    {
+        "area_id": "1105",
+        "capacity": 100,
+        "lane": "153395_1"
+    },
+    {
+        "area_id": "1106",
+        "capacity": 2500,
+        "lane": "152329_1"
+    },
+    {
+        "area_id": "1107",
+        "capacity": 250,
+        "lane": "-153491#0_1"
+    },
+    {
+        "area_id": "1108",
+        "capacity": 550,
+        "lane": "-153480#7_1"
+    },
+    {
+        "area_id": "1109",
+        "capacity": 750,
+        "lane": "152466#0_1"
+    },
+    {
+        "area_id": "1110",
+        "capacity": 75,
+        "lane": "153484#1_1"
+    },
+    {
+        "area_id": "1111",
+        "capacity": 75,
+        "lane": "152824#1_1"
+    },
+    {
+        "area_id": "1112",
+        "capacity": 250,
+        "lane": "152912#2_1"
+    },
+    {
+        "area_id": "1113",
+        "capacity": 2500,
+        "lane": "152973_1"
+    },
+    {
+        "area_id": "1114",
+        "capacity": 75,
+        "lane": "-152653_1"
+    },
+    {
+        "area_id": "1115",
+        "capacity": 35,
+        "lane": "-152651_1"
+    },
+    {
+        "area_id": "1116",
+        "capacity": 1500,
+        "lane": "152771_1"
+    },
+    {
+        "area_id": "1117",
+        "capacity": 75,
+        "lane": "152652#1_1"
+    },
+    {
+        "area_id": "1118",
+        "capacity": 1500,
+        "lane": "153639_1"
+    },
+    {
+        "area_id": "1119",
+        "capacity": 35,
+        "lane": "-152660#0_1"
+    },
+    {
+        "area_id": "1120",
+        "capacity": 75,
+        "lane": "-153401_1"
+    },
+    {
+        "area_id": "1121",
+        "capacity": 75,
+        "lane": "-152674#1_1"
+    },
+    {
+        "area_id": "1122",
+        "capacity": 250,
+        "lane": "-152992_1"
+    },
+    {
+        "area_id": "1123",
+        "capacity": 1500,
+        "lane": "152824#1_1"
+    },
+    {
+        "area_id": "1124",
+        "capacity": 1250,
+        "lane": "152534#6_1"
+    },
+    {
+        "area_id": "1125",
+        "capacity": 250,
+        "lane": "153355#1_1"
+    },
+    {
+        "area_id": "1126",
+        "capacity": 1500,
+        "lane": "153476#24_1"
+    },
+    {
+        "area_id": "1127",
+        "capacity": 75,
+        "lane": "-152739_1"
+    },
+    {
+        "area_id": "1128",
+        "capacity": 1250,
+        "lane": "-152480_1"
+    },
+    {
+        "area_id": "1129",
+        "capacity": 225,
+        "lane": "152820_1"
+    },
+    {
+        "area_id": "1130",
+        "capacity": 250,
+        "lane": "152896_1"
+    },
+    {
+        "area_id": "1131",
+        "capacity": 35,
+        "lane": "152775#4_1"
+    },
+    {
+        "area_id": "1132",
+        "capacity": 1000,
+        "lane": "153009#1_1"
+    },
+    {
+        "area_id": "1133",
+        "capacity": 6500,
+        "lane": "-152900#1_1"
+    },
+    {
+        "area_id": "1134",
+        "capacity": 50,
+        "lane": "152395_1"
+    },
+    {
+        "area_id": "1135",
+        "capacity": 1500,
+        "lane": "-152398#2_1"
+    },
+    {
+        "area_id": "1136",
+        "capacity": 750,
+        "lane": "-152831#0_1"
+    },
+    {
+        "area_id": "1137",
+        "capacity": 750,
+        "lane": "-152134_1"
+    },
+    {
+        "area_id": "1138",
+        "capacity": 750,
+        "lane": "152818#3_1"
+    },
+    {
+        "area_id": "1139",
+        "capacity": 75,
+        "lane": "-152899#0_1"
+    },
+    {
+        "area_id": "1140",
+        "capacity": 75,
+        "lane": "-152899#1_1"
+    },
+    {
+        "area_id": "1141",
+        "capacity": 75,
+        "lane": "152802_1"
+    },
+    {
+        "area_id": "1142",
+        "capacity": 250,
+        "lane": "-152581#0_1"
+    },
+    {
+        "area_id": "1143",
+        "capacity": 750,
+        "lane": "152780_1"
+    },
+    {
+        "area_id": "1144",
+        "capacity": 750,
+        "lane": "-153559#2_1"
+    },
+    {
+        "area_id": "1145",
+        "capacity": 1000,
+        "lane": "152796#0_1"
+    },
+    {
+        "area_id": "1146",
+        "capacity": 750,
+        "lane": "152967_1"
+    },
+    {
+        "area_id": "1147",
+        "capacity": 750,
+        "lane": "-152804_1"
+    },
+    {
+        "area_id": "1149",
+        "capacity": 75,
+        "lane": "152396#1_1"
+    },
+    {
+        "area_id": "1150",
+        "capacity": 50,
+        "lane": "152396#2_1"
+    },
+    {
+        "area_id": "1151",
+        "capacity": 750,
+        "lane": "152451_1"
+    },
+    {
+        "area_id": "1152",
+        "capacity": 250,
+        "lane": "152677#5_1"
+    },
+    {
+        "area_id": "1153",
+        "capacity": 1000,
+        "lane": "152832#1_1"
+    },
+    {
+        "area_id": "1154",
+        "capacity": 75,
+        "lane": "-152814#4_1"
+    },
+    {
+        "area_id": "1155",
+        "capacity": 50,
+        "lane": "-152814#4_1"
+    },
+    {
+        "area_id": "1156",
+        "capacity": 750,
+        "lane": "-152688#1_1"
+    },
+    {
+        "area_id": "1157",
+        "capacity": 100,
+        "lane": "152422#0_1"
+    },
+    {
+        "area_id": "1158",
+        "capacity": 1500,
+        "lane": "152380_1"
+    },
+    {
+        "area_id": "1159",
+        "capacity": 550,
+        "lane": "152534#4_1"
+    },
+    {
+        "area_id": "1160",
+        "capacity": 1250,
+        "lane": "-152605#0_1"
+    },
+    {
+        "area_id": "1161",
+        "capacity": 750,
+        "lane": "-152651_1"
+    },
+    {
+        "area_id": "1162",
+        "capacity": 1250,
+        "lane": "-152673_1"
+    },
+    {
+        "area_id": "1163",
+        "capacity": 550,
+        "lane": "-152587#1_1"
+    },
+    {
+        "area_id": "1164",
+        "capacity": 1500,
+        "lane": "-153461#1_1"
+    },
+    {
+        "area_id": "1165",
+        "capacity": 250,
+        "lane": "-153325#1_1"
+    },
+    {
+        "area_id": "1166",
+        "capacity": 250,
+        "lane": "153048#1_1"
+    },
+    {
+        "area_id": "1167",
+        "capacity": 1500,
+        "lane": "-152929_1"
+    },
+    {
+        "area_id": "1168",
+        "capacity": 1250,
+        "lane": "-152460_1"
+    },
+    {
+        "area_id": "1169",
+        "capacity": 75,
+        "lane": "-152936_1"
+    },
+    {
+        "area_id": "1170",
+        "capacity": 75,
+        "lane": "-153012#0_1"
+    },
+    {
+        "area_id": "1171",
+        "capacity": 75,
+        "lane": "152396#2_1"
+    },
+    {
+        "area_id": "1172",
+        "capacity": 25,
+        "lane": "153451#7_1"
+    },
+    {
+        "area_id": "1173",
+        "capacity": 75,
+        "lane": "153449#8_1"
+    },
+    {
+        "area_id": "1174",
+        "capacity": 750,
+        "lane": "-153024_1"
+    },
+    {
+        "area_id": "1175",
+        "capacity": 1000,
+        "lane": "153549#0_1"
+    },
+    {
+        "area_id": "1176",
+        "capacity": 225,
+        "lane": "152380_1"
+    },
+    {
+        "area_id": "1177",
+        "capacity": 150,
+        "lane": "153479#0_1"
+    },
+    {
+        "area_id": "1178",
+        "capacity": 1000,
+        "lane": "-152938#1_1"
+    },
+    {
+        "area_id": "1179",
+        "capacity": 1250,
+        "lane": "-152608_1"
+    },
+    {
+        "area_id": "1180",
+        "capacity": 500,
+        "lane": "153490#0_1"
+    },
+    {
+        "area_id": "1181",
+        "capacity": 3500,
+        "lane": "-152624#0_1"
+    },
+    {
+        "area_id": "1182",
+        "capacity": 75,
+        "lane": "152858_1"
+    },
+    {
+        "area_id": "1183",
+        "capacity": 250,
+        "lane": "153323#4_1"
+    },
+    {
+        "area_id": "1184",
+        "capacity": 75,
+        "lane": "-153323#1_1"
+    },
+    {
+        "area_id": "1185",
+        "capacity": 50,
+        "lane": "152152_0"
+    },
+    {
+        "area_id": "1186",
+        "capacity": 350,
+        "lane": "152324_1"
+    }
+]

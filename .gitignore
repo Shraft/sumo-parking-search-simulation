@@ -1,0 +1,22 @@
+.venv/
+
+a_simconfig.json
+b_simconfig.json
+c_simconfig.json
+d_simconfig.json
+
+sim_results/
+*.log
+
+# Poetry virtual environments
+__pypackages__/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+src/most.sumo.log
+
+
+simconfig.json
+
