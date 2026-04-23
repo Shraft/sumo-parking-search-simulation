@@ -1,10 +1,14 @@
 ## About this Project
 This repository contains a simulation-based study on urban parking search behavior conducted as part of a student research project. It analyzes how parameters such as parking duration, occupancy, and search radius affect search time, travel distance, and overall traffic dynamics.
 
+## Licenses
+This project is licensed under BSD 2-Clause, except for third-party components.
+It includes MoSTScenario, which is licensed under the GNU GPL.
+
 ## Installation Guide (Linux)
 
-1. Clone the repository: `git clone git@github.com:Shraft/sumo_sim.git`  
-2. Move into the directory: `cd sumo_sim`  
+1. Clone the repository: `git clone git@github.com:ndreinhardt/sumo-parking-search-simulation.git`  
+2. Move into the directory: `cd sumo-parking-search-simulation`  
 3. Create and activate a virtual environment: `python3 -m venv .venv` and `source .venv/bin/activate`  
 4. Install dependencies: `pip3 install -r requirements.txt`  
 5. Configure the simulation by editing `simconfig.json` (see section "Simulation Parameters")  
